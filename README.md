@@ -16,8 +16,8 @@ This Streamlit application fetches the transcript of a YouTube video, checks for
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/youtube-kid-safe-check.git
-    cd youtube-transcript-analysis
+    git clone https://github.com/senthilthangaiah/youtube-kid-safe-check.git
+    cd youtube-kid-safe-check
     ```
 
 2. Install the required packages:
