@@ -73,3 +73,20 @@ streamlit run app.py
 
 Enter a YouTube video ID or link in the text input field and click enter. The application will fetch the transcript and analyze it for any naughty words or adult content.
 
+### License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+css
+Copy code
+
+### `requirements.txt`
+
+Make sure to create a `requirements.txt` file to list all the dependencies:
+
+```streamlit
+youtube-transcript-api
+pandas
+sentence-transformers
+torch
+transformers
+```
