@@ -76,7 +76,7 @@ Enter a YouTube video ID or link in the text input field and click enter. The ap
 ### Results.
 
 # Changes Required
-![screenshot]()
+![screenshot](https://github.com/senthilthangaiah/youtube-kid-safe-check/blob/master/snapshot.png)
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
